@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonMu1" type="id">buttonMul</item>
+    <item name="buttonAdd" type="id">buttonAdd</item>
+    <item name="buttonSub" type="id">buttonSub</item>
+    <item name="buttonDivision" type="id">buttonDivision</item>
+    <item name="buttonEqual" type="id">buttonEqual</item>
+</resources>
